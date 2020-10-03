@@ -2,13 +2,15 @@
 
 ![HacktoberFest-2020](./img/hf.png)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2d11585f-a587-44a1-b5c1-3a1aff11afe9/deploy-status)](https://app.netlify.com/sites/hacktoberfest-20/deploys
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d11585f-a587-44a1-b5c1-3a1aff11afe9/deploy-status)](https://app.netlify.com/sites/hacktoberfest-20/deploys)
 [![Fork](https://img.shields.io/github/forks/GingerDragon7/Hacktoberfest-2020?label=fork&style=social)](https://github.com/IIITians-Network/HacktoberFest/fork)
 [![Star](https://img.shields.io/github/stars/GingerDragon7/Hacktoberfest-2020?style=social)](https://github.com/IIITians-Network/HacktoberFest/stargazers)
 [![watch](https://img.shields.io/github/watchers/GingerDragon7/Hacktoberfest-2020?style=social)](https://github.com/IIITians-Network/HacktoberFest/watchers)
 
 ## Give a star 🌟. Get your projects merged quickly on valid pull requests.
+
 ## Happy coding
+
 ## Contributing to Open Source in general
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
