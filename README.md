@@ -1,6 +1,6 @@
-# Hacktoberfest-2020
+# Hacktoberfest-2021
 
-![HacktoberFest-2020](./img/hf.png)
+![HacktoberFest-2021](./img/hf.png)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d11585f-a587-44a1-b5c1-3a1aff11afe9/deploy-status)](https://app.netlify.com/sites/hacktoberfest-20/deploys)
 [![Fork](https://img.shields.io/github/forks/GingerDragon7/Hacktoberfest-2020?label=fork&style=social)](https://github.com/IIITians-Network/HacktoberFest/fork)
